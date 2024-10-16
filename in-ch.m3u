@@ -1,28 +1,28 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkhxG_1P17JwicjAw8sxwy-15ARaqrMI6p4wMH98&s" group-title="", Sony TV HD
-http://sportzx-tv.gotdns.ch/setX/index.m3u8
+http://sportzx-tv.gotdns.ch/setX/index.mpd
                                  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="", &TV HD
-http://sportzx-tv.gotdns.ch/andtvX/index.m3u8
+http://sportzx-tv.gotdns.ch/andtvX/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="", Colors HD
 https://neestreamtv.com/jcinema/stream.m3u8?id=3694429|Referer=https://neestreamtv.com/jcinema/?key=SportzX
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="", Sony SAB HD
-http://sportzx-tv.gotdns.ch/sabX/index.m3u8
+http://sportzx-tv.gotdns.ch/sabX/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="", Star Plus HD
-http://sportzx-tv.gotdns.ch/starplusX/index.m3u8
+http://sportzx-tv.gotdns.ch/starplusX/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310" group-title="", Star Bharat
-http://sportzx-tv.gotdns.ch/starbhX/index.m3u8
+http://sportzx-tv.gotdns.ch/starbhX/index.mpd
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="", Zee TV HD
-http://sportzx-tv.gotdns.ch/zeetvX/index.m3u8
+http://sportzx-tv.gotdns.ch/zeetvX/index.mpd
 
 
 
