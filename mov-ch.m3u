@@ -2,8 +2,16 @@
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="Bengali Movies", Zee Bangla Cinema
 http://sportztv-apk.webhop.me/zeebcX/index.mpd
+
+
+
+
 
 
 
@@ -11,8 +19,13 @@ http://sportztv-apk.webhop.me/zeebcX/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Bengali Movies", Jalsha Movies
 http://sportztv-apk.webhop.me/Jm/index.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bengali Movies",Colors_Bangla Cinema
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
+
+
+
+
 
 
 
@@ -23,8 +36,16 @@ https://cdn2.pishow.tv/live/156/master.m3u8
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies" ,Colors_Cineplex HD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
+
+
+
+
 
 
 
@@ -33,8 +54,12 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 http://sportztv-apk.webhop.me/setmax/index.mpd
 
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png" group-title="Hindi Movies", Sony Max 2
 http://sportztv-apk.webhop.me/setmax2/index.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wblvtoHFXpBoat-oNukycB5auBa45inSwiyghE8gac3MN_ridYgeY1kHRKCkBrb1slgpIlO6Vw=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies", Goldmines
@@ -46,9 +71,64 @@ http://sportztv-apk.webhop.me/goldminesX/index.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="Hindi Movies", Star Gold HD
+http://sportztv-apk.webhop.me/sg/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0UcNeoapiau3K7hLzHTVFZj8HstD3nSxDw&s" group-title="Hindi Movies", Star Gold HD 2
+http://sportztv-apk.webhop.me/sg2/index.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23DIxCGs5O0LWgkTueiRgabxUeSclNqxBzA&usqp=CAU" group-title="Hindi Movies", Star Gold Select HD
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-SELECT-HD/live.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest/scale-to-width-down/220?cb=20211216002621" group-title="Hindi Movies", Star Gold Romance
+http://sportztv-apk.webhop.me/sgr/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
+http://sportztv-apk.webhop.me/zeec/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="English Movies", Sony PIX
+https://cricfyranahin.xyz/hop/airtelop.php?id=630|Referer=https://sportzxtv.com&User-Agent=HimelOp
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
+https://cricfyranahin.xyz/hop/airtelop.php?id=2745|Referer=https://sportzxtv.com&User-Agent=HimelOp
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+#EXTINF:-1  tvg-logo="https://cdn.icon-icons.com/icons2/2845/PNG/512/hbo_logo_icon_181389.png" group-logo="https://swarajya.gumlet.io/swarajya/2022-09/56703d5b-4863-4cb3-acc0-9efe39f4226e/Screenshot_2022_09_03_at_2_25_24_PM.jpg?q=55&auto=format,compress&format=webp" group-title="English Movies", HBO
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-logo="https://swarajya.gumlet.io/swarajya/2022-09/56703d5b-4863-4cb3-acc0-9efe39f4226e/Screenshot_2022_09_03_at_2_25_24_PM.jpg?q=55&auto=format,compress&format=webp" group-title="English Movies", HBO Hits
+https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-logo="https://swarajya.gumlet.io/swarajya/2022-09/56703d5b-4863-4cb3-acc0-9efe39f4226e/Screenshot_2022_09_03_at_2_25_24_PM.jpg?q=55&auto=format,compress&format=webp" group-title="English Movies", HBO Signature
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+ 
+
+#EXTINF:-1 tvg-logo="https://nowmelive.com/wp-content/uploads/2024/09/hollymovies.webp" group-title="English Movies", Hollywood Movies
+https://movies.nexg.tv/movie-h/movie-h.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lMEI4SC_W-yCyTG6BrYl_JnI_haLGbE4o8-kM1_k3zwg=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies", And Pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="Hindi Movies", Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2018/08/zeebollywoodlogoNEW.jpg" group-title="Hindi Movies", Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/y22i4LKSejzFeZexkEXvdpfxjqpCxANFqXTkZdtmCavaPnry0DA9lg5Dbm0IGBmGVXJBOq80WA=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies", Zee Anmol Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/zeeanmolcinema1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg" group-title="Hindi Movies", Bflix Movies
+https://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 
 
