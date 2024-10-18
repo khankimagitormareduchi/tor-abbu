@@ -1,9 +1,19 @@
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="", Star Jalsha HD
 https://himel-op.top/sportzx/live-now.m3u8?id=jalshaX|Referer=https://sportzxtv.com&User-Agent=sportzx-v.1.2
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="", Jalsha Movies FHD
-https://himel-op.top/sportzx/live-now.m3u8?id=Jm|Referer=https://sportzxtv.com&User-Agent=spor#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="", Zee Bangla HD
+https://himel-op.top/sportzx/live-now.m3u8?id=Jm|Referer=https://sportzxtv.com&User-Agent=sportzx-v.1.2
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="", Zee Bangla HD
 https://himel-op.top/sportzx/live-now.m3u8?id=zeebanglaX|Referer=https://sportzxtv.com&User-Agent=sportzx-v.1.2
 
 
