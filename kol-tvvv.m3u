@@ -1,10 +1,10 @@
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="", Star Jalsha HD
 https://himel-op.top/sportzx/live-now.m3u8?id=jalshaX|Referer=https://sportzxtv.com&User-Agent=sportzx-v.1.2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="", Star Jalsha FHD
+https://himel-op.top/sportzx/live-push.m3u8?id=emBy5Nk7Xwyxl1i|Referer=https://sportzxtv.com
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="", Jalsha Movies FHD
@@ -47,3 +47,4 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="491" tvg-logo="https://i.postimg.cc/XJrDszJS/Sun-Bangla.png", Sun Bangla
 https://tamilultra.tv/api/jiotv.m3u8?id=1669|Referer=https://tamilultra.tv/api/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60
+
