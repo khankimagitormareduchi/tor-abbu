@@ -16,6 +16,9 @@ https://himel-op.top/sportzx/live-now.m3u8?id=Jm|Referer=https://sportzxtv.com&U
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="", Zee Bangla HD
 https://himel-op.top/sportzx/live-now.m3u8?id=zeebanglaX|Referer=https://sportzxtv.com&User-Agent=sportzx-v.1.2
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="", Zee Bangla HD
+https://himel-op.top/sportzx/live-push.m3u8?id=emptPGx-IMsPjuiP|Referer=https://sportzxtv.com
+
 
 
 
@@ -47,4 +50,3 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="491" tvg-logo="https://i.postimg.cc/XJrDszJS/Sun-Bangla.png", Sun Bangla
 https://tamilultra.tv/api/jiotv.m3u8?id=1669|Referer=https://tamilultra.tv/api/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60
-
